@@ -8,10 +8,11 @@ namespace Palindrome
     public class PalinDromeRunner
     {
 
-        public bool IsPalindrome(char[] phrase)
+
+
+        public object IsPalindrome(char[] p)
         {
             return true;
         }
-
     }
 }
